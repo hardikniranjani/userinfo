@@ -1,0 +1,22 @@
+
+.form_user_main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    
+}
+
+.form_user{
+    display: flex;
+    background-color: white;
+    padding: 40px;
+    box-shadow: 1px 5px 8px lightgray;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.form_user > input{
+    padding: 8px;
+    margin: 10px;
+}
